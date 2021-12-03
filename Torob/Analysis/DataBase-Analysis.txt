@@ -1,0 +1,36 @@
+
+
+
+create datebase db_torob,
+
+use db_torob,
+
+create table t_torobProducts(
+		sellerCode int primary key,
+		sellerName varchar(30),
+		productCategori varchar(35),
+		productName varchar(30),
+		productLinkURL varchar(350),
+		productImageURL varchar(350),
+		productPrice int,
+		)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
